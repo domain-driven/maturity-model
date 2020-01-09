@@ -1,5 +1,5 @@
-# maturity-model
-DDD成熟度模型（DDD Maturity Model）
+# DDD Maturity Model
+DDD成熟度模型
 
 # License
 
